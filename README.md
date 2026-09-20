@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&text=DAVID%20RAJAN%20S&fontColor=D4AF37&fontSize=48&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Data%20Analyst&descAlignY=58&descColor=DDE2B1" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=013220&text=DAVID%20RAJAN%20S&fontColor=D4AF37&fontSize=44&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Data%20Analyst&descAlignY=58&descColor=DDE2B1" width="100%" alt="header" />
 </p>
 
 <p align="center">
@@ -165,29 +165,21 @@
 <tr>
 <td align="center" width="180" style="padding:14px;">
   <a href="mailto:dvdrjs9500@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" height="55" alt="Gmail" />
-    <br /><br />
     <img src="https://img.shields.io/badge/Email-013220?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email" />
   </a>
 </td>
 <td align="center" width="180" style="padding:14px;">
   <a href="https://leetcode.com/u/iAmDavid11/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="55" height="55" alt="LeetCode" />
-    <br /><br />
     <img src="https://img.shields.io/badge/LeetCode-013220?style=for-the-badge&logo=leetcode&logoColor=D4AF37" alt="LeetCode" />
   </a>
 </td>
 <td align="center" width="180" style="padding:14px;">
   <a href="https://www.kaggle.com/davidrajans" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" width="55" height="55" alt="Kaggle" />
-    <br /><br />
     <img src="https://img.shields.io/badge/Kaggle-013220?style=for-the-badge&logo=kaggle&logoColor=D4AF37" alt="Kaggle" />
   </a>
 </td>
 <td align="center" width="180" style="padding:14px;">
   <a href="https://x.com/DavidRajan_11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="55" height="55" alt="X" />
-    <br /><br />
     <img src="https://img.shields.io/badge/X-013220?style=for-the-badge&logo=x&logoColor=D4AF37" alt="X" />
   </a>
 </td>
@@ -195,5 +187,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=2&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=013220&section=footer" width="100%" alt="footer" />
 </p>
